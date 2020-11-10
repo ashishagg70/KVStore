@@ -1,0 +1,9 @@
+1. https://gist.github.com/bodokaiser/5689562
+2. https://suchprogramming.com/epoll-in-3-easy-steps/
+3. http://byteliu.com/2019/05/08/LINUX-%E2%80%93-IO-MULTIPLEXING-%E2%80%93-SELECT-VS-POLL-VS-EPOLL/
+4. https://stackoverflow.com/questions/7666509/hash-function-for-string
+5. https://developer.gnome.org/glib/2.30/glib-Hash-Tables.html
+6. https://docs.oracle.com/cd/E19455-01/806-5257/6je9h032u/index.html
+7. https://stackoverflow.com/questions/230062/whats-the-best-way-to-check-if-a-file-exists-in-c
+8. https://www.programiz.com/c-programming/c-file-input-output
+

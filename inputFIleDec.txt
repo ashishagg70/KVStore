@@ -1,0 +1,29 @@
+Status CODES INFO : 
+ --->  1:get
+ --->  2:put
+ --->  3:delete
+
+
+input1: simple 4 commands
+
+input2 : 81 (key,value) unique put only
+
+input3 : #uniques keys __ no replace in put
+
+            81 times : #with this sequence
+              -->  1 times : (key,value) put
+              -->  4 times : (key) get
+              ---  1 times  : (key) delete
+
+
+input4 : #uniques keys __ no replace in put
+
+    fully_randomized(input3)
+
+input5 : #only_one_key but 100_replace
+
+
+
+
+
+
